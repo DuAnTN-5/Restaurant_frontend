@@ -1,5 +1,6 @@
 import '../css/Header.css';
-import logo from '../assets/logo-1.png'
+import logo from '../assets/The_Chef-removebg-preview.png'
+
 
 function Header() {
   return (
