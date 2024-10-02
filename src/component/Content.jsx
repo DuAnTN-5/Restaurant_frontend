@@ -139,16 +139,16 @@ function Content() {
         <div className="inline-block border-[1px] border-gray-300 rounded-lg overflow-hidden">
           <div className="flex">
             <button className="px-6 py-2 text-gray-700 hover:text-white hover:bg-[#9d7e5a] transition duration-200">
-              Main-Dishes
+              Món ăn chính
             </button>
             <button className="px-6 py-2 text-gray-700 hover:text-white hover:bg-[#9d7e5a] transition duration-200">
-              Sea-Food
+              Món ăn phụ
             </button>
             <button className="px-6 py-2 text-gray-700 hover:text-white hover:bg-[#9d7e5a] transition duration-200">
-              Desserts
+              Món ăn nhẹ
             </button>
             <button className="px-6 py-2 text-gray-700 hover:text-white hover:bg-[#9d7e5a] transition duration-200">
-              Beverage
+              Thức uống
             </button>
           </div>
         </div>

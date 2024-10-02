@@ -1,6 +1,10 @@
 import '../css/Header.css';
+
+
+
 import logo from '../assets/logo-hi-5.png';
 import { useState, useRef, useEffect } from 'react';
+
 
 function Header() {
   const [isNavbarVisible, setIsNavbarVisible] = useState(false);
