@@ -11,9 +11,9 @@ function App() {
   return (
     <>
       <Header />
-      <Blog/>
+      {/* <Blog/> */}
       {/* <FavoritePage/> */}
-      {/* <HomePage/> */}
+      <HomePage/>
       {/* <ProductDetail/> */}
       <Footer/>
 
